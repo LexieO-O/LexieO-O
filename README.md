@@ -4,7 +4,7 @@
   <img width="25%" src="https://cdn.discordapp.com/attachments/1117541577506693193/1122603121009504346/eu.gif"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEEF87&size=35&center=true&vCenter=true&width=1000&lines=ʕ•́ᴥ•̀ʔっ+HELLO,+My+name+is+Lexie;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEEF87&size=35&center=true&vCenter=true&width=1000&lines=ʕ•́ᴥ•̀ʔっ+HELLO,+My+name+is+Lexie;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
